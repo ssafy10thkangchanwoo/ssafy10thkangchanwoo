@@ -4,6 +4,9 @@
 ![Alt text](i13913363347.png)
 ![Alt text](i13913363347.png)
 ![Alt text](i13913363347.png)
+![Alt text](i13913363347.png)
+![Alt text](i13913363347.png)
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Chanwoo's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
@@ -12,6 +15,7 @@
 
 [![Chanwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssafy10thkangchanwoo&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/ssafy10thkangchanwoo)
  
+![이미지](https://github.com/ssafy10thkangchanwoo/ssafy10thkangchanwoo/assets/139411434/a3d7abfb-aca9-4dce-b52d-c8b82c4e6ee0)
 ![이미지](https://github.com/ssafy10thkangchanwoo/ssafy10thkangchanwoo/assets/139411434/a3d7abfb-aca9-4dce-b52d-c8b82c4e6ee0)
 ![이미지](https://github.com/ssafy10thkangchanwoo/ssafy10thkangchanwoo/assets/139411434/a3d7abfb-aca9-4dce-b52d-c8b82c4e6ee0)
 ![이미지](https://github.com/ssafy10thkangchanwoo/ssafy10thkangchanwoo/assets/139411434/a3d7abfb-aca9-4dce-b52d-c8b82c4e6ee0)
